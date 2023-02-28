@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "personel takip2.0", "personel takip2.0\personel takip2.0.csproj", "{E2D8594C-0489-475D-B98B-501DF130CBB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Debug|x64.ActiveCfg = Debug|x64
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Debug|x64.Build.0 = Debug|x64
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Debug|x86.ActiveCfg = Debug|x64
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Debug|x86.Build.0 = Debug|x64
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Release|x64.ActiveCfg = Release|x64
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Release|x64.Build.0 = Release|x64
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Release|x86.ActiveCfg = Release|x86
+		{E2D8594C-0489-475D-B98B-501DF130CBB6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912182BF-83BF-4513-9758-EA39FF9EB7C2}
+	EndGlobalSection
+EndGlobal
